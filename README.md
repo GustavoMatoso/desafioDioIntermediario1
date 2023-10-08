@@ -6,7 +6,7 @@ criar dois projetos no playground xcode
 * Segundo projeto, aplicar o Paradigma de programação orientada a Protocolos
 * Para ambos projeto explorar os seguintes conceitos:
 -- Controle de Fluxos (if, while , switch, for)
--- Coleçōes (???)
+-- Coleçōes
 -- Funçoes e Closures
 --Enuns e Structs
 --Concorrência 
