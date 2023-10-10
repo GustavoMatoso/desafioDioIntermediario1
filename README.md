@@ -1,4 +1,4 @@
-# desafioDioIntermediario1
+# desafioDioIntermediario
 
 
 criar dois projetos no playground xcode
@@ -11,7 +11,6 @@ criar dois projetos no playground xcode
 --Enuns e Structs
 --Concorrência 
 
-entregar pelo repositório pelo github, 
 
 
-Esse é o primeiro projeto
+
